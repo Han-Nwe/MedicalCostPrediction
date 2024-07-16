@@ -2,18 +2,6 @@
 
 This repository contains an analysis and regression modeling project aimed at predicting medical costs based on various predictors such as age, BMI, smoking status, and more.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Data Cleaning](#data-cleaning)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Correlation Analysis](#correlation-analysis)
-- [Regression Modeling](#regression-modeling)
-- [Model Evaluation](#model-evaluation)
-- [Conclusion](#conclusion)
-- [How to Run](#how-to-run)
-- [References](#references)
-
 ## Introduction
 The goal of this project is to predict medical costs using various features. The analysis involves:
 - Data exploration
